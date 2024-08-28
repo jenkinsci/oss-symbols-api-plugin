@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Provides severals OpenSource logos for Jenkins Plugins, internally known as "symbols".
+    <br/>
+</div>
