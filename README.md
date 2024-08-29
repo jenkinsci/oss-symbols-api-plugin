@@ -47,16 +47,20 @@ One example is the usage with the badge plugin:
 
 ```groovy
 node {
-    addBadge(icon: "symbol-prometheus-icon plugin-oss-symbols-api")
+    addBadge(icon: "symbol-prometheus-icon-solid plugin-oss-symbols-api")
 }
 ```
 
 See https://plugins.jenkins.io/badge/ for more details.
 
-Symbol supports standard and dark theme
+Symbol supports standard and dark theme for solid icon
 
 ![](docs/badge.png)
 ![](docs/badge2.png)
+
+Color is also supported
+
+
 
 ## LICENSE
 
