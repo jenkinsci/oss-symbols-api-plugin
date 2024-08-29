@@ -60,7 +60,10 @@ Symbol supports standard and dark theme for solid icon
 
 Color is also supported
 
+Other example include the `custom-folder-icon` and `customizable-header` plugins.
 
+![](docs/folder_icon.png)
+![](docs/header.png)
 
 ## LICENSE
 
