@@ -4,7 +4,7 @@ Jenkins API Plugin that provide logo of common OpenSource tools also known as "s
 
 [![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oss-symbols-api-plugin/main)](https://ci.jenkins.io/job/plugins/job/oss-symbols-api-plugin/)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/oss-symbols-api.svg)](https://plugins.jenkins.io/oss-symbols-api/)
-[![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/oss-symbols-api.svg?color=blue)](https://plugins.jenkins.io/cncf-symbols-api/)
+[![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/oss-symbols-api.svg?color=blue)](https://plugins.jenkins.io/oss-symbols-api/)
 [![Contributors](https://img.shields.io/github/contributors/jenkinsci/oss-symbols-api-plugin.svg)](https://github.com/jenkinsci/oss-symbols-api-plugin/graphs/contributors)
 
 ## Usage
