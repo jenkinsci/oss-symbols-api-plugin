@@ -15,6 +15,7 @@ Source of the SVG are from
 
 - https://github.com/cdfoundation/artwork
 - https://github.com/cncf/artwork
+- https://github.com/sigstore/community
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
