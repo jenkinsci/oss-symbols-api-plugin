@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="-3.45 20.55 439.66 392.91">
     <style>.coredns-icon-color-4{fill:#fff}.coredns-icon-color-5{fill:#2c256c}.coredns-icon-color-6{fill:#5b2d82}.coredns-icon-color-12{fill:#623393}</style>
-    <linearGradient id="SVGID_1_" x1="1387.905" x2="1691.089" y1="-3490.327" y2="-3490.327"
+    <linearGradient id="coredns-icon-color-1" x1="1387.905" x2="1691.089" y1="-3490.327" y2="-3490.327"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <linearGradient id="SVGID_2_" x1="1387.905" x2="1691.089" y1="-3449.15" y2="-3449.15"
+    <linearGradient id="coredns-icon-color-2" x1="1387.905" x2="1691.089" y1="-3449.15" y2="-3449.15"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_2_)"
+    <path fill="url(#coredns-icon-color-2)"
         d="M246.8 138.9c5.6 0 11.2 2.1 15.4 6.4l12.6 12.6-12.6-12.6c-4.2-4.3-9.8-6.4-15.4-6.4z" />
-    <linearGradient id="SVGID_3_" x1="1387.905" x2="1691.089" y1="-3506.712" y2="-3506.712"
+    <linearGradient id="coredns-icon-color-3" x1="1387.905" x2="1691.089" y1="-3506.712" y2="-3506.712"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#754fa0" />
         <stop offset=".181" stop-color="#6e4a99" />
@@ -22,9 +22,9 @@
         <stop offset=".791" stop-color="#413079" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_3_)"
+    <path fill="url(#coredns-icon-color-3)"
         d="M123.6 154.1c14-14 36.8-14 50.8 0l10.6 10.6 32.9-32.9c15.9-15.9 41.9-15.9 57.8 0l12.6 12.6 31.6-31.6L251 43.9c-19.8-19.8-52.3-19.8-72.2 0L36.7 186.2C19.8 203 17.4 229 29.2 248.6l.4-.4 94-94.1z" />
-    <linearGradient id="SVGID_4_" x1="1387.905" x2="1691.088" y1="-3362.654" y2="-3362.654"
+    <linearGradient id="coredns-icon-color-4" x1="1387.905" x2="1691.088" y1="-3362.654" y2="-3362.654"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#754fa0" />
         <stop offset=".181" stop-color="#6e4a99" />
@@ -32,22 +32,22 @@
         <stop offset=".791" stop-color="#413079" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_4_)"
+    <path fill="url(#coredns-icon-color-4)"
         d="M309.3 277.9c-14 14-36.8 14-50.8 0L246 265.3l-41.5 41.5c-15.9 15.9-41.9 15.9-57.8 0L136 296.1l-30.8 30.8 63.3 63.3c19.8 19.8 52.3 19.8 72.2 0L383 248c14.8-14.8 18.6-36.7 11.3-55l-4.6 4.6-80.4 80.3z" />
     <path
         d="M191 293.3c-2.1 2.1-4.6 3.7-7.2 4.8-2.6 1.1-5.4 1.6-8.2 1.6-5.6 0-11.2-2.1-15.4-6.4l-10.7-10.7-12.3-12.3c-4.3-4.3-6.4-9.8-6.4-15.4 0-2.8.5-5.6 1.6-8.2 1.1-2.6 2.7-5.1 4.8-7.2l61.3-61.3 32.9-32.9c3.2-3.2 7.1-5.2 11.3-6 1.4-.3 2.8-.4 4.2-.4 5.6 0 11.2 2.1 15.4 6.4l12.6 12.6 13.5-13.5-12.6-12.6c-15.9-15.9-41.9-15.9-57.8 0l-33 32.9-61.3 61.3c-3 3-5.4 6.3-7.3 9.9-.6 1.2-1.2 2.4-1.7 3.6-4.5 11.1-3.9 23.7 1.7 34.4 1.9 3.6 4.3 6.9 7.3 9.9l12.3 12.3 10.7 10.7c15.9 15.9 41.9 15.9 57.8 0l41.5-41.5-13.5-13.5-41.5 41.5z"
         class="coredns-icon-color-4" />
     <path d="M389.6 197.6l4.6-4.6c-1.7-4.2-4-8.2-6.8-12 1 5.5 1.7 11 2.2 16.6z" class="coredns-icon-color-5" />
     <path d="M29.6 248.1l-.4.4c.3.5.5 1 .8 1.4-.1-.5-.3-1.1-.4-1.8z" class="coredns-icon-color-6" />
-    <linearGradient id="SVGID_5_" x1="1387.905" x2="1691.089" y1="-3434.108" y2="-3434.108"
+    <linearGradient id="coredns-icon-color-5" x1="1387.905" x2="1691.089" y1="-3434.108" y2="-3434.108"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_5_)"
+    <path fill="url(#coredns-icon-color-5)"
         d="M232.1 200.7l42.8-42.8-12.6-12.6c-4.3-4.3-9.8-6.4-15.4-6.4-1.4 0-2.8.1-4.2.4-4.1.8-8.1 2.8-11.3 6l-32.9 32.9 2.3 2.3c14 14 14 36.8 0 50.8l-51.4 51.4 10.7 10.7c4.3 4.3 9.8 6.4 15.4 6.4 2.8 0 5.6-.5 8.2-1.6 2.6-1.1 5.1-2.7 7.2-4.8l41.5-41.5-.4-.4c-13.9-14-13.9-36.8.1-50.8z" />
-    <linearGradient id="SVGID_6_" x1="1359.162" x2="1723.274" y1="-3434.108" y2="-3434.108"
+    <linearGradient id="coredns-icon-color-6" x1="1359.162" x2="1723.274" y1="-3434.108" y2="-3434.108"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#754fa0" />
         <stop offset=".181" stop-color="#6e4a99" />
@@ -55,34 +55,34 @@
         <stop offset=".791" stop-color="#413079" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_6_)"
+    <path fill="url(#coredns-icon-color-6)"
         d="M232.1 200.7l42.8-42.8-12.6-12.6c-4.3-4.3-9.8-6.4-15.4-6.4-1.4 0-2.8.1-4.2.4-4.1.8-8.1 2.8-11.3 6l-32.9 32.9 2.3 2.3c14 14 14 36.8 0 50.8l-51.4 51.4 10.7 10.7c4.3 4.3 9.8 6.4 15.4 6.4 2.8 0 5.6-.5 8.2-1.6 2.6-1.1 5.1-2.7 7.2-4.8l41.5-41.5-.4-.4c-13.9-14-13.9-36.8.1-50.8z" />
     <path d="M191 293.3c-2.1 2.1-4.6 3.7-7.2 4.8 2.6-1 5.1-2.6 7.2-4.8z" class="coredns-icon-color-4" />
-    <linearGradient id="SVGID_7_" x1="1359.162" x2="1723.274" y1="-3396.875" y2="-3396.875"
+    <linearGradient id="coredns-icon-color-7" x1="1359.162" x2="1723.274" y1="-3396.875" y2="-3396.875"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_7_)" d="M191 293.3c-2.1 2.1-4.6 3.7-7.2 4.8 2.6-1 5.1-2.6 7.2-4.8z" />
+    <path fill="url(#coredns-icon-color-7)" d="M191 293.3c-2.1 2.1-4.6 3.7-7.2 4.8 2.6-1 5.1-2.6 7.2-4.8z" />
     <path d="M149.5 282.7l10.7 10.7c4.3 4.3 9.8 6.4 15.4 6.4-5.6 0-11.2-2.1-15.4-6.4l-10.7-10.7z"
         class="coredns-icon-color-4" />
-    <linearGradient id="SVGID_8_" x1="1359.162" x2="1723.274" y1="-3417.679" y2="-3417.679"
+    <linearGradient id="coredns-icon-color-8" x1="1359.162" x2="1723.274" y1="-3417.679" y2="-3417.679"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_8_)"
+    <path fill="url(#coredns-icon-color-8)"
         d="M149.5 282.7l10.7 10.7c4.3 4.3 9.8 6.4 15.4 6.4-5.6 0-11.2-2.1-15.4-6.4l-10.7-10.7z" />
     <path d="M231.4 145.3c3.2-3.2 7.1-5.2 11.3-6-4.2.8-8.2 2.8-11.3 6z" class="coredns-icon-color-4" />
-    <linearGradient id="SVGID_9_" x1="1359.162" x2="1723.274" y1="-3470.335" y2="-3470.335"
+    <linearGradient id="coredns-icon-color-9" x1="1359.162" x2="1723.274" y1="-3470.335" y2="-3470.335"
         gradientTransform="rotate(-45.001 5285.106 -4.689)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#623393" />
         <stop offset=".574" stop-color="#452b7c" />
         <stop offset="1" stop-color="#2c256c" />
     </linearGradient>
-    <path fill="url(#SVGID_9_)" d="M231.4 145.3c3.2-3.2 7.1-5.2 11.3-6-4.2.8-8.2 2.8-11.3 6z" />
+    <path fill="url(#coredns-icon-color-9)" d="M231.4 145.3c3.2-3.2 7.1-5.2 11.3-6-4.2.8-8.2 2.8-11.3 6z" />
     <path
         d="M36.7 258.3c-2.6-2.6-4.8-5.4-6.7-8.3-.3-.5-.6-1-.8-1.4l-13.5 13.5c-14 14-14 36.8 0 50.8L42 339.3c11.3 11.3 28.3 13.5 41.8 6.6 3.2-1.7 6.3-3.8 9-6.6l8.4-8.4 3-3 1-1-68.5-68.6z"
         class="coredns-icon-color-5" />
