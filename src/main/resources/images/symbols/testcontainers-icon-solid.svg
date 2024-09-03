@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 200 200">
+    <polygon fill="currentColor" fill-opacity="0.3" points="89.1362 11.187 10.4214 56.6396 10.4214 147.5275 89.1362 192.9799 167.8515 147.5275 167.8515 56.6396 89.1362 11.187"/>
+    <polygon fill="currentColor" fill-opacity="0.6" points="167.8514 56.6395 167.8514 147.5274 89.1364 192.98 89.1364 102.0921 167.8514 56.6395" />
+    <polygon fill="currentColor" fill-opacity="0.9" points="167.8514 56.6395 89.1364 102.0921 10.4215 56.6395 89.1364 11.187 167.8514 56.6395"/>
+</svg>
