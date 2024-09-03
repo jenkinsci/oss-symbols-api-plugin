@@ -1,0 +1,23 @@
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   role="img"
+   viewBox="0 0 256 256">
+   <g transform="translate(-373.642,-318.344)">
+      <rect
+         transform="scale(-1,1)"
+         ry="35.487503"
+         rx="35.487503"
+         y="328.34399"
+         x="-619.64203"
+         height="236"
+         width="236"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5,1;stroke-dashoffset:0" />
+      <path fill="currentColor" style="fill-opacity:1;stroke:none"
+         d="m 488.0825,538.40564 26.93006,-19.41471 -1.2525,-154.06511 -25.67756,20.04099 0,153.43883 z" />
+      <path fill="currentColor" style="stroke:none"
+         d="M 488.39564,538.40564 C 387.66591,522.39153 384.79535,434.69468 487.76935,415.65457 l 0.31315,18.16215 c -73.04418,12.17854 -63.78999,77.70661 0,87.36619 l 0.31314,17.22273 z" />
+      <path fill="currentColor" style="stroke:none"
+         d="m 514.69946,433.19044 c 12.45669,0.0847 23.30841,5.78683 34.13233,11.58619 l -15.97017,11.89934 51.04191,0 0.3131,-34.75859 -15.97018,11.89934 c -16.16175,-8.16308 -31.01691,-17.95941 -53.54699,-18.16215 l 0,17.53587 z" />
+   </g>
+</svg>
