@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 170 170">
+    <polygon fill="currentColor" fill-opacity="0.5"
+        points="93.798 59.877 93.798 36.305 35.439 36.305 35.439 128.29 93.798 128.29 93.798 104.718 59.01 104.718 59.01 59.877 93.798 59.877" />
+    <rect fill="currentColor" class="cls-2" x="105.58468" y="36.30488" width="23.57181" height="23.57364" />
+    <rect fill="currentColor" x="105.58468" y="71.66442" width="23.57181" height="56.62581" />
+    <path fill="currentColor"
+        d="M11.51326,8.37852V172.97363H176.10838V8.37852Zm140.948,140.11033H35.16035V32.86324H152.46129Z"
+        transform="translate(-11.51326 -8.37852)" />
+</svg>
