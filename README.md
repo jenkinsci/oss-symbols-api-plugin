@@ -24,6 +24,7 @@ Source of the SVG are from
 - https://www.wiremock.io
 - https://mariadb.com
 - https://www.postgresql.org
+- https://github.com/opencontainers/opencontainers.org
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
