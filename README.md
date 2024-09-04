@@ -1,4 +1,4 @@
-# oss-symbols-api-plugin
+# OpenSource Tools Symbols API Plugin
 
 Jenkins API Plugin that provide logo of common OpenSource tools also known as "symbols", for your Jenkins plugins.
 
@@ -16,8 +16,14 @@ Source of the SVG are from
 
 - https://github.com/cdfoundation/artwork
 - https://github.com/cncf/artwork
-- https://github.com/ossf/
+- https://github.com/ossf/artwork
 - https://github.com/sigstore/community
+- https://github.com/openrewrite
+- https://www.openid.net
+- https://testcontainers.com
+- https://www.wiremock.io
+- https://mariadb.com
+- https://www.postgresql.org
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
