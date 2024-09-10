@@ -1,6 +1,6 @@
-# OpenSource Tools Symbols API Plugin
+# IT Tools Symbols API Plugin
 
-Jenkins API Plugin that provide logo of common OpenSource tools also known as "symbols", for your Jenkins plugins.
+Jenkins API Plugin that provide logo of common IT tools also known as "symbols", for your Jenkins plugins.
 
 [![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oss-symbols-api-plugin/main)](https://ci.jenkins.io/job/plugins/job/oss-symbols-api-plugin/)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/oss-symbols-api.svg)](https://plugins.jenkins.io/oss-symbols-api/)
@@ -10,7 +10,7 @@ Jenkins API Plugin that provide logo of common OpenSource tools also known as "s
 
 ## Usage
 
-This plugin provides some tools logo of common OpenSource tools also known as "symbols", for your Jenkins plugins.
+This plugin provides some tools logo of common IT tools also known as "symbols", for your Jenkins plugins.
 
 Source of the SVG are from
 
