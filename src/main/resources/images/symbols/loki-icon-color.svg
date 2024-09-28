@@ -1,0 +1,76 @@
+<svg viewBox="119.721 77.1375 293.9433 340.7696" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(3.2791531085968018, 0, 0, 3.2791531085968018, -147.20204162597656, 74.0223388671875)">
+        <g>
+            <linearGradient id="loki-icon-gradient-1" gradientUnits="userSpaceOnUse" x1="542.915" y1="723.249" x2="542.915" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="102.59,95.31 94.31,96.59 95.59,104.87 103.87,103.6" fill="url(#loki-icon-gradient-1)"/>
+            <linearGradient id="loki-icon-gradient-2" gradientUnits="userSpaceOnUse" x1="596.576" y1="723.249" x2="596.576" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="132.49,85.92 169.05,80.29 167.77,72.01 131.22,77.63" fill="url(#loki-icon-gradient-2)"/>
+            <linearGradient id="loki-icon-gradient-3" gradientUnits="userSpaceOnUse" x1="569.155" y1="723.249" x2="569.155" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="118.25,79.63 119.52,87.91 127.81,86.64 126.53,78.35" fill="url(#loki-icon-gradient-3)"/>
+            <linearGradient id="loki-icon-gradient-4" gradientUnits="userSpaceOnUse" x1="556.035" y1="723.249" x2="556.035" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="116.84,101.6 115.56,93.32 107.28,94.59 108.55,102.88" fill="url(#loki-icon-gradient-4)"/>
+            <linearGradient id="loki-icon-gradient-5" gradientUnits="userSpaceOnUse" x1="542.915" y1="723.249" x2="542.915" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="93.59,91.9 101.87,90.63 100.6,82.34 92.32,83.62" fill="url(#loki-icon-gradient-5)"/>
+            <linearGradient id="loki-icon-gradient-6" gradientUnits="userSpaceOnUse" x1="596.576" y1="723.249" x2="596.576" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="169.77,84.98 133.21,90.6 134.49,98.89 171.04,93.26" fill="url(#loki-icon-gradient-6)"/>
+            <linearGradient id="loki-icon-gradient-7" gradientUnits="userSpaceOnUse" x1="569.155" y1="723.249" x2="569.155" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="120.25,92.6 121.52,100.88 129.8,99.61 128.53,91.32" fill="url(#loki-icon-gradient-7)"/>
+            <linearGradient id="loki-icon-gradient-8" gradientUnits="userSpaceOnUse" x1="556.035" y1="723.249" x2="556.035" y2="595.214" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="106.56,89.91 114.84,88.63 113.57,80.35 105.28,81.62" fill="url(#loki-icon-gradient-8)"/>
+            <linearGradient id="loki-icon-gradient-9" gradientUnits="userSpaceOnUse" x1="540.495" y1="720.762" x2="540.495" y2="599.332" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="91.6,78.94 95.09,78.4 84.9,12.12 81.4,12.66" fill="url(#loki-icon-gradient-9)"/>
+            <linearGradient id="loki-icon-gradient-10" gradientUnits="userSpaceOnUse" x1="545.361" y1="724.13" x2="545.361" y2="593.756" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="96.4,78.2 99.9,77.66 88.96,6.5 85.46,7.04" fill="url(#loki-icon-gradient-10)"/>
+            <linearGradient id="loki-icon-gradient-11" gradientUnits="userSpaceOnUse" x1="553.668" y1="727.089" x2="553.668" y2="588.856" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="104.62,76.93 108.11,76.39 96.51,0.95 93.01,1.49" fill="url(#loki-icon-gradient-11)"/>
+            <linearGradient id="loki-icon-gradient-12" gradientUnits="userSpaceOnUse" x1="558.534" y1="722.492" x2="558.534" y2="596.468" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="109.42,76.19 112.92,75.65 102.34,6.87 98.84,7.41" fill="url(#loki-icon-gradient-12)"/>
+            <linearGradient id="loki-icon-gradient-13" gradientUnits="userSpaceOnUse" x1="566.737" y1="717.193" x2="566.737" y2="605.243" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="117.53,74.95 121.03,74.41 111.63,13.31 108.13,13.84" fill="url(#loki-icon-gradient-13)"/>
+            <linearGradient id="loki-icon-gradient-14" gradientUnits="userSpaceOnUse" x1="571.603" y1="718.808" x2="571.603" y2="602.568" gradientTransform="matrix(0.9884 -0.1521 0.1521 0.9884 -543.5166 -506.3307)">
+                <stop offset="0" stop-color="#faed1e"/>
+                <stop offset="1" stop-color="#f15b2b"/>
+            </linearGradient>
+            <polygon points="122.34,74.21 125.84,73.67 116.08,10.23 112.58,10.76" fill="url(#loki-icon-gradient-14)"/>
+        </g>
+    </g>
+</svg>
