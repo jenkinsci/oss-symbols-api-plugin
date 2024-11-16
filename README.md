@@ -26,6 +26,7 @@ Source of the SVG are from
 - https://www.postgresql.org
 - https://github.com/opencontainers/opencontainers.org
 - https://www.pulumi.com/brand/
+- https://github.com/devicons/devicon
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
