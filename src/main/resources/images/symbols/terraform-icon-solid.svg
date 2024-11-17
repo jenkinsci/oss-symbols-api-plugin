@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 5 50 60">
+    <path fill="currentColor" fill-rule="evenodd" stroke-width="0px" d="M17.2,17.5l15.5,9v18l-15.5-9v-18Z"/>
+    <path fill="currentColor" fill-rule="evenodd" stroke-width="0px" d="M34.5,26.5v18l15.5-9v-18l-15.5,9Z"/>
+    <path fill="currentColor" fill-rule="evenodd" stroke-width="0px" d="M0,7.5v18l15.5,9v-18L0,7.5Z"/>
+    <path fill="currentColor" fill-rule="evenodd" stroke-width="0px" d="M17.2,55.5l15.5,9v-18l-15.5-9v18Z"/>
+</svg>
