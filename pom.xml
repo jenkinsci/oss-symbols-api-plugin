@@ -14,7 +14,7 @@
   <version>${changelist}</version>
   <packaging>hpi</packaging>
 
-  <name>IT Symbols API Plugin</name>
+  <name>Dev Tools Symbols API Plugin</name>
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
   <licenses>
     <license>
