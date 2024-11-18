@@ -5,7 +5,7 @@ Jenkins API Plugin that provide logo of common Dev tools also known as "symbols"
 [![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oss-symbols-api-plugin/main)](https://ci.jenkins.io/job/plugins/job/oss-symbols-api-plugin/)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/oss-symbols-api.svg)](https://plugins.jenkins.io/oss-symbols-api/)
 [![GitHub release](https://img.shields.io/github/release/jenkinsci/oss-symbols-api-plugin.svg?label=changelog)](https://github.com/jenkinsci/oss-symbols-api-plugin/releases/latest)
-[![Symbols](https://img.shields.io/github/directory-file-count/jenkinsci/oss-symbols-api-plugin%2Fsrc%2Fmain%2Fresources%2Fimages%2Fsymbols?type=file&style=flat&label=tools)]
+[![Symbols](https://img.shields.io/github/directory-file-count/jenkinsci/oss-symbols-api-plugin%2Fsrc%2Fmain%2Fresources%2Fimages%2Fsymbols?type=file&style=flat&label=tools)](src/main/resources/images/symbols)
 
 [![Contributors](https://img.shields.io/github/contributors/jenkinsci/oss-symbols-api-plugin.svg)](https://github.com/jenkinsci/oss-symbols-api-plugin/graphs/contributors)
 
