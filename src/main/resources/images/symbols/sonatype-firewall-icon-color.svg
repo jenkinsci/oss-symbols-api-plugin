@@ -1,56 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg2"
-   width="81.333336"
-   height="81.333336"
-   viewBox="0 0 81.333336 81.333336"
-   sodipodi:docname="Sonatype Product Logos_sonatype-firewall-icon.eps"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs6" />
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <g
-     id="g8"
-     inkscape:groupmode="layer"
-     inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,81.333333)">
-    <g
-       id="g10"
-       transform="scale(0.1)">
-      <path
-         d="M 303.418,76.1094 147.453,166.406 V 100.301 L 303.418,10.1445 459.387,100.301 v 66.105 L 303.418,76.1094"
-         style="fill:#1c1e25;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path12" />
-      <path
-         d="M 499.438,486.844 V 123.461 l 59.054,34.148 v 295.079 l -59.054,34.156"
-         style="fill:#982e9c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path14" />
-      <path
-         d="m 147.453,509.996 v -70.508 l 155.965,90.157 155.969,-90.157 v 70.508 L 303.418,600.145 147.453,509.996"
-         style="fill:#1c1e25;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path16" />
-      <path
-         d="M 48.4922,452.688 V 157.609 l 58.9098,-34.004 v 363.09 L 48.4922,452.688"
-         style="fill:#982e9c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path18" />
-      <path
-         d="m 321.25,192.945 v 125.141 h 32.887 v 37.305 H 321.25 v 6.757 c 0,15.832 8.039,23.571 20.145,23.571 7.699,0 13.418,-2.36 17.773,-6.406 l 16.094,25.886 c -9.739,11.11 -26.5,15.465 -42.258,15.465 -32.524,0 -54.32,-21.855 -54.32,-58.516 v -6.757 h -26.836 v -37.305 h 26.836 V 192.945 h 42.566"
-         style="fill:#982e9c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path20" />
-    </g>
-  </g>
+<svg version="1.1" viewBox="0 0 81.333336 81.333336"
+   xmlns="http://www.w3.org/2000/svg">
+   <g transform="matrix(1.3333333,0,0,-1.3333333,0,81.333333)">
+      <g transform="scale(0.1)">
+         <path fill="#1c1e25" stroke="none" d="M 303.418,76.1094 147.453,166.406 V 100.301 L 303.418,10.1445 459.387,100.301 v 66.105 L 303.418,76.1094" />
+         <path fill="#982e9c" stroke="none" d="M 499.438,486.844 V 123.461 l 59.054,34.148 v 295.079 l -59.054,34.156" />
+         <path fill="#1c1e25" stroke="none" d="m 147.453,509.996 v -70.508 l 155.965,90.157 155.969,-90.157 v 70.508 L 303.418,600.145 147.453,509.996" />
+         <path fill="#982e9c" stroke="none" d="M 48.4922,452.688 V 157.609 l 58.9098,-34.004 v 363.09 L 48.4922,452.688" />
+         <path fill="#982e9c" stroke="none" d="m 321.25,192.945 v 125.141 h 32.887 v 37.305 H 321.25 v 6.757 c 0,15.832 8.039,23.571 20.145,23.571 7.699,0 13.418,-2.36 17.773,-6.406 l 16.094,25.886 c -9.739,11.11 -26.5,15.465 -42.258,15.465 -32.524,0 -54.32,-21.855 -54.32,-58.516 v -6.757 h -26.836 v -37.305 h 26.836 V 192.945 h 42.566" />
+      </g>
+   </g>
 </svg>
