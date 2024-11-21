@@ -30,6 +30,7 @@ Source of the SVG are from
 - https://github.com/devicons/devicon
 - https://brand.hashicorp.com
 - https://www.rancher.com/brand-guidelines
+- https://www.sonatype.com/newsroom
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 

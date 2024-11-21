@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 81.333336 81.333336"
+   xmlns="http://www.w3.org/2000/svg">
+   <g transform="matrix(1.3333333,0,0,-1.3333333,0,81.333333)">
+      <g transform="scale(0.1)">
+         <path fill="currentColor" stroke="none" d="M 129.133,178.41 72.125,145.254 287,20.1445 V 86.6016 L 129.133,178.41" />
+         <path fill="currentColor" stroke="none" d="M 51.9531,430.262 V 180.031 l 59.0549,34.489 v 181.406 l -59.0549,34.336" />
+         <path fill="currentColor" stroke="none" d="M 72.125,465.18 133.078,429.672 287,519.262 v 70.883 L 72.125,465.18" />
+         <path fill="currentColor" stroke="none" d="M 503.043,395.926 V 214.367 l 58.91,-34.336 v 250.231 l -58.91,-34.336" />
+         <path fill="currentColor" stroke="none" d="M 327.051,86.6016 V 20.1445 L 541.777,145.254 484.918,178.266 327.051,86.6016" />
+         <path fill="currentColor" stroke="none" d="M 327.051,590.145 V 519.262 L 480.824,429.816 541.777,465.18 327.051,590.145" />
+      </g>
+   </g>
+</svg>
