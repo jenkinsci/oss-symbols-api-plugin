@@ -31,6 +31,7 @@ Source of the SVG are from
 - https://brand.hashicorp.com
 - https://www.rancher.com/brand-guidelines
 - https://www.sonatype.com/newsroom
+- https://github.com/hadolint/hadolint
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
