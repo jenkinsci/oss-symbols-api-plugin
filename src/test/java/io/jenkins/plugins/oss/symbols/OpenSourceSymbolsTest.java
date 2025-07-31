@@ -2,15 +2,12 @@ package io.jenkins.plugins.oss.symbols;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.io.File;
-import java.util.Collection;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
-import java.util.stream.Collectors;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang.StringUtils;
+import java.util.stream.Stream;
 import org.junit.jupiter.api.Test;
 
 class OpenSourceSymbolsTest {
@@ -21,24 +18,28 @@ class OpenSourceSymbolsTest {
     }
 
     @Test
-    void testGetAvailableIcons() {
+    void testGetAvailableIcons() throws Exception {
         Map<String, String> availableIcons = OpenSourceSymbols.getAvailableIcons();
 
         assertNotNull(availableIcons);
         assertFalse(availableIcons.isEmpty());
 
-        Collection<File> icons =
-                FileUtils.listFiles(new File("./src/main/resources/images/symbols/"), new String[] {"svg"}, false);
-        assertEquals(icons.size(), availableIcons.size());
+        Path iconsDir = Path.of("./src/main/resources/images/symbols/");
+        try (Stream<Path> stream = Files.list(iconsDir)) {
+            List<String> iconNames = stream.filter(path -> path.toString().endsWith(".svg"))
+                    .map(path -> {
+                        String fileName = path.getFileName().toString();
+                        return fileName.endsWith(".svg") ? fileName.substring(0, fileName.length() - 4) : fileName;
+                    })
+                    .sorted(Comparator.naturalOrder())
+                    .toList();
 
-        List<String> iconNames = icons.stream()
-                .map(icon -> StringUtils.removeEnd(icon.getName(), ".svg"))
-                .sorted(Comparator.naturalOrder())
-                .collect(Collectors.toList());
-        assertIterableEquals(iconNames, availableIcons.keySet());
+            assertEquals(iconNames.size(), availableIcons.size());
+            assertIterableEquals(iconNames, availableIcons.keySet());
 
-        for (Entry<String, String> icon : availableIcons.entrySet()) {
-            assertEquals(icon.getValue(), OpenSourceSymbols.getIconClassName(icon.getKey()));
+            for (Map.Entry<String, String> icon : availableIcons.entrySet()) {
+                assertEquals(icon.getValue(), OpenSourceSymbols.getIconClassName(icon.getKey()));
+            }
         }
     }
 }
