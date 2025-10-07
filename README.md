@@ -35,6 +35,7 @@ Source of the SVG are from
 - https://bitnami.com/logos
 - https://www.svgrepo.com
 - https://github.com/lobehub/lobe-icons
+- https://valkey.io
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
