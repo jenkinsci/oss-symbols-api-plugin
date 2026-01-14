@@ -11,7 +11,6 @@ import java.util.concurrent.ConcurrentSkipListMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Stream;
-import org.apache.commons.lang.StringUtils;
 
 public final class OpenSourceSymbols {
 
@@ -32,10 +31,10 @@ public final class OpenSourceSymbols {
             while (urls.hasMoreElements()) {
                 URL url = urls.nextElement();
 
-                if (StringUtils.contains(url.toExternalForm(), API_PLUGIN)) {
+                if (url.toExternalForm().contains(API_PLUGIN)) {
                     URI uri = url.toURI();
 
-                    if (StringUtils.equals(uri.getScheme(), "jar")) {
+                    if ("jar".equals(uri.getScheme())) {
                         try (FileSystem fileSystem = FileSystems.newFileSystem(uri, Collections.emptyMap())) {
                             collectIcons(fileSystem.getPath(IMAGES_SYMBOLS_PATH));
                         }
@@ -52,10 +51,10 @@ public final class OpenSourceSymbols {
 
     private void collectIcons(Path path) throws IOException {
         try (Stream<Path> stream = Files.walk(path, 1)) {
-            stream.filter(icon -> StringUtils.endsWith(icon.getFileName().toString(), SVG_FILE_ENDING))
+            stream.filter(icon -> icon.getFileName().toString().endsWith(SVG_FILE_ENDING))
                     .forEach(icon -> {
-                        String iconName =
-                                StringUtils.removeEnd(icon.getFileName().toString(), SVG_FILE_ENDING);
+                        String fileName = icon.getFileName().toString();
+                        String iconName = fileName.substring(0, fileName.length() - SVG_FILE_ENDING.length());
                         availableIcons.put(iconName, getIconClassName(iconName));
                     });
         }
