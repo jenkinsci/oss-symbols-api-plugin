@@ -36,6 +36,8 @@ Source of the SVG are from
 - https://www.svgrepo.com
 - https://github.com/lobehub/lobe-icons
 - https://valkey.io
+- https://a2a-protocol.org
+- https://agentclientprotocol.com
 
 All icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder, nor vice versa.
 
